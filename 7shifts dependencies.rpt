@@ -1,0 +1,10 @@
+﻿referencing_object                                                                                                               object_type                                                  referenced_entity
+-------------------------------------------------------------------------------------------------------------------------------- ------------------------------------------------------------ --------------------------------------------------------------------------------------------------------------------------------
+sp_rpt_table_data_change_log                                                                                                     SQL_STORED_PROCEDURE                                         AuditDataChanges
+FN_CalculateDates_SameDayLastYear                                                                                                SQL_SCALAR_FUNCTION                                          calendarv2
+sp_rpt_table_data_change_log                                                                                                     SQL_STORED_PROCEDURE                                         Write_Procedure_Execution
+
+(3 rows affected)
+
+
+Completion time: 2026-03-25T13:53:54.2620797-05:00

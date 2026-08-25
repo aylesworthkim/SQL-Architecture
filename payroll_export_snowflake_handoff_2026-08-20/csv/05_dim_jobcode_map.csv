@@ -1,0 +1,21 @@
+﻿ToastJC,ToastJobName,TrimmedJC,TempDept,JobCodeRowsInToast,SampleWageFrequency
+0,Accounting,,,37,SALARY
+0,Admin,,,37,SALARY
+3107,Utility,107,107Utility,1,HOURLY
+310,Salaried Manager,10,10MGRSalry,1,SALARY
+321,Ghost KDS,21,21CASHIER,0,
+360,MIT,60,360MIT,0,
+340,Training FOH,40,40Training,1,HOURLY
+341,Training BOH,41,41Training,1,HOURLY
+305,Shift Lead,5,5ShiftLead,1,HOURLY
+370,Server,70,70Server,1,HOURLY
+372,Catering Team Leader,72,72CaterTL,1,HOURLY
+374,DRA,74,74DRAttend,1,HOURLY
+307,Certified Trainer,7,7CerTrainr,1,HOURLY
+380,Expo,80,80Expo,1,HOURLY
+381,Dish,81,81Dish,1,HOURLY
+382,Prep,82,82Prep,1,HOURLY
+383,Salad,83,83Salad,1,HOURLY
+384,Pizza,84,84Pizza,1,HOURLY
+386,Sandwich,86,86Sandwich,1,HOURLY
+320,Ghost Cashier,20,NOREPORT,1,SALARY

@@ -1,0 +1,51 @@
+ItemPath,Category,Runs,EmailedRuns,DistinctUsers,LastRun,Consumers,DeliveryNote
+/Sales and KPIs/Daily Sales Flash Report,USER,465,330,3,2026-08-13 08:50,"Kim, Matt Hayward, mjones; Don Wilson (inactive acct)","Auto-email, data-driven (4 subs)"
+/TechSupport/Database file sizes,SYSTEM,286,286,1,2026-08-13 06:00,auto-email only,Data-driven
+/TechSupport/SQL-PROD - Drivespace Alert,SYSTEM,286,286,1,2026-08-13 06:00,auto-email only,Data-driven
+/Sales and KPIs/Sales per Labor Hour,USER,151,147,2,2026-08-13 08:20,"mwilson, Kim","Auto-email, data-driven"
+/Reports for Review and Naming/Reviewed and deployed/Company Store Payroll Export - Toast,EXPORT,147,140,2,2026-08-10 08:47,auto-email only,"Data-driven (28 recipients = company stores)"
+/Monkey Media/Monkey Orders Due For Today - Summary by Store,USER,141,141,1,2026-08-13 07:50,auto-email (store managers); Don Wilson viewed,Data-driven
+/TechSupport/Report Run Status,SYSTEM,71,71,1,2026-08-12 14:00,auto-email only,Data-driven
+/TechSupport/Missing Config Data,SYSTEM,60,60,1,2026-08-13 06:45,auto-email only,Data-driven
+/TechSupport/Missing EOD Markers,SYSTEM,60,60,1,2026-08-13 06:30,auto-email only,Data-driven
+/TechSupport/Over Night Stored Proc Failures,SYSTEM,60,60,1,2026-08-13 06:30,auto-email only,Data-driven
+/Accounting/Royalty Report,USER,53,36,3,2026-08-11 08:40,"Kim, tbell; Don Wilson (inactive acct)","Auto-email, data-driven"
+/Finance Analysis/Finance Dump - Labor,EXPORT,42,0,1,2026-08-10 09:49,Matt Hayward,Interactive only (no subscription)
+/Finance Analysis/Finance Dump - Sales,EXPORT,36,0,2,2026-08-10 09:10,Matt Hayward,Interactive only (no subscription)
+/! Frequently Used and Popular Reports/Daily Sales Flash Report,USER,22,0,1,2026-06-16 14:18,mjones,Interactive only
+/Marketing/Restaurant Contact Information Sheet,USER,22,0,3,2026-08-06 12:14,"akarveller, Kim, Matt Hayward",Interactive only (no subscription)
+/Sales and KPIs/Weekly Sales Leaders Alert,ALERT,21,21,1,2026-08-11 07:45,auto-email only,Data-driven
+/Sales and KPIs/Weekly Sales Report - WPY Comparative,USER,20,18,2,2026-08-10 08:45,"Kim; Don Wilson (inactive acct)","Auto-email, data-driven"
+/Sales and KPIs/Record Sales Alert,ALERT,19,19,1,2026-08-11 08:15,auto-email only,Data-driven
+/Accounting/Intacct Files/Intacct format - Ad Fund Fees,EXPORT,12,0,1,2026-07-07 14:31,tbell,Auto-email
+/Catering Sales and Menu/Monkey - Refunds by User,USER,12,12,1,2026-08-10 07:45,auto-email only,Auto-email
+/Catering Sales and Menu/Period Catering by Week,USER,12,12,1,2026-08-10 07:45,auto-email; Don Wilson viewed,Data-driven
+/Sales and KPIs/Net Sales Average by Hour by Weekday,USER,11,11,1,2026-08-10 07:30,auto-email only,Data-driven
+/Reports for Review and Naming/Reviewed and deployed/Sales per Labor Hour,USER,10,0,1,2026-08-04 09:35,Kim,Interactive only
+/TechSupport/Vendor Exports/eSite export - Customers,EXPORT (eSite-dropped),10,10,1,2026-08-10 11:45,file-share export,No recipients (FileShare)
+/TechSupport/Vendor Exports/eSite export - OSAT,EXPORT (eSite-dropped),10,10,1,2026-08-10 11:45,file-share export,No recipients (FileShare)
+/TechSupport/Vendor Exports/eSite export - Sales,EXPORT (eSite-dropped),10,10,1,2026-08-10 06:45,file-share export,No recipients (FileShare)
+/TechSupport/Vendor Exports/eSite export - Stores,EXPORT (eSite-dropped),10,10,1,2026-08-10 06:45,file-share export,No recipients (FileShare)
+/TechSupport/Vendor Exports/eSite export - Transactions,EXPORT (eSite-dropped),10,10,1,2026-08-10 06:45,file-share export,No recipients (FileShare)
+/Reports for Review and Naming/Reviewed and deployed/Spirit Night - Toast,USER,9,0,1,2026-08-11 14:53,Kim,Interactive only (no subscription)
+/Sales and KPIs/Sales Tracking History,ALERT,9,9,1,2026-08-11 14:00,auto-email only,Data-driven
+/TechSupport/ARCHIVED RDL/Catering Sales Report,USER (archived),9,9,1,2026-08-10 09:30,auto-email only,Auto-email
+/Monkey Media/Monkey Sales by Channel by Weekday,USER,8,0,1,2026-08-07 09:05,Matt Hayward,Interactive only (no subscription)
+/Reports for Review and Naming/Reviewed and deployed/Item PLU Ranges,USER,6,0,2,2026-06-19 11:21,"akarveller, Kim",Interactive only
+/Reports for Review and Naming/Reviewed and deployed/Toast Non Cash Tip Totals by Store,USER,5,5,1,2026-08-10 08:45,auto-email only,Auto-email
+/Sales and KPIs/Order Mode Sales,USER,4,0,1,2026-06-17 22:52,Matt Hayward,Interactive only
+/Menu Info and Product Mix/Menu Mix Detail by Restaurant,USER,4,0,1,2026-06-17 12:40,Matt Hayward,Interactive only
+/HR/Monthly MealCard Adjustments for Payroll,USER,4,0,1,2026-08-05 09:14,Kim,Auto-email
+/Domo Validation/Master SALES dataset,SYSTEM,2,0,1,2026-06-16 14:27,Matt Hayward,Interactive only
+/Marketing/Store Information,USER,2,0,1,2026-06-16 10:19,Kim,Interactive only
+/Reports for Review and Naming/Hours Update Export for Yext,EXPORT (Yext),2,0,1,2026-07-15 12:24,akarveller,Interactive only
+/Reports for Review and Naming/Links to upload to Yext,EXPORT (Yext),2,0,1,2026-07-15 12:24,akarveller,Interactive only
+/Reports for Review and Naming/Reviewed and deployed/Yext Data Export,EXPORT (Yext),2,0,1,2026-07-15 12:27,akarveller,Interactive only
+/Reports for Review and Naming/Toast MLI PLU Attribute map,USER,2,0,1,2026-06-17 08:54,Kim,Interactive only
+/Reports for Review and Naming/Reviewed and deployed/Monthly MealCard Adjustments for Payroll,USER,2,0,1,2026-07-01 09:06,Kim,Interactive only
+/Sales and KPIs/Net Sales by Week Day,USER,2,0,1,2026-07-02 11:55,Kim,Interactive only
+/TechSupport/Restaurant Phone list by State,USER,2,2,1,2026-08-01 08:00,auto-email only,Auto-email
+/TechSupport/Store Technical Info - Network,SYSTEM,2,0,1,2026-07-01 16:16,akarveller,Interactive only
+/TechSupport/Gross Sales Net Sales Check Count by Order Mode,USER,1,0,1,2026-06-15 11:46,(no views in last 60d),Interactive only
+/Reports for Review and Naming/Reviewed and deployed/Cashier vs Kiosk Counts and Dollars,USER,1,0,1,2026-07-17 12:02,akarveller,Interactive only
+/! Frequently Used and Popular Reports/Store Information,USER,1,0,1,2026-07-27 10:35,emoore,Interactive only

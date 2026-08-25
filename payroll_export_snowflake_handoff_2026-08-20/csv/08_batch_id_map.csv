@@ -1,0 +1,168 @@
+﻿StoreId,StoreName,ShortStoreName,ADPBatchID,ADPBatchDescription,InCompany_9_79,InCorpToast_9_244,InAllStores_2_0,IsDeletedStore,BatchIDStatus,BatchDescriptionStatus
+0,Company,,,,0,0,0,0,MISSING - no ADPBatchID set,blank
+1,Dev Center (Do Not Report),,1,,0,0,0,0,OK - matches store number,blank
+2,Newks Learning Center,,0,,0,0,0,0,PLACEHOLDER - ADPBatchID is 0,blank
+1001,Oxford MS (University),,1001,Oxford University,1,1,1,0,OK - matches store number,set
+1002,Southaven MS (Goodman Ave),,1002,,0,0,1,0,OK - matches store number,blank
+1003,Flowood MS,,1003,Flowood,1,1,1,0,OK - matches store number,set
+1004,Tuscaloosa AL,,1004,TUSC,0,0,1,0,OK - matches store number,set
+1005,Hattiesburg MS (Hardy St),,1005,Hattiesburg,0,0,1,0,OK - matches store number,set
+1006,Collierville TN,,1006,,0,0,1,0,OK - matches store number,blank
+1007,Cypress TX,,1007,CYPRESS,0,0,1,0,OK - matches store number,set
+1008,Birmingham AL (Downtown),,1008,,0,0,1,0,OK - matches store number,blank
+1009,Clinton MS,,1009,,1,1,1,0,OK - matches store number,blank
+1010,zClosed - Cordova TN,,1010,,0,0,0,0,OK - matches store number,blank
+1011,Jackson MS,,1011,Jackson,1,1,1,0,OK - matches store number,set
+1012,zClosed - Mobile AL (Azalea Road),,1012,,0,0,0,0,OK - matches store number,blank
+1013,zClosed - Mountain Brook AL,,1013,,0,0,0,0,OK - matches store number,blank
+1014,Ridgeland MS (Lake Harbour),,1014,Lake Harbour,1,1,1,0,OK - matches store number,set
+1015,Tyler TX,,1015,Tyler,1,1,1,0,OK - matches store number,set
+1016,Oxford MS (Galleria),,1016,Galleria,1,1,1,0,OK - matches store number,set
+1017,Huntsville AL,,1017,HUNTS,0,0,1,0,OK - matches store number,set
+1018,Brandon MS,,1018,Brandon,0,0,1,0,OK - matches store number,set
+1019,Murfreesboro TN (Avenues),,1019,MURF,1,1,1,0,OK - matches store number,set
+1020,Tupelo MS,,1020,,0,0,1,0,OK - matches store number,blank
+1021,Shreveport LA,,1021,,0,0,1,0,OK - matches store number,blank
+1022,zClosed - Dallas,,1022,,0,0,0,0,OK - matches store number,blank
+1023,Panama City FL,,1023,,1,1,1,0,OK - matches store number,blank
+1024,Longview TX,,1024,Longview,1,1,1,0,OK - matches store number,set
+1025,zClosed - Charlotte NC (Blakeney),,1025,,0,0,0,0,OK - matches store number,blank
+1026,D`Iberville MS,,1026,DIberville,0,0,1,0,OK - matches store number,set
+1027,Austin TX (Arboretum),,1027,Arboretum,0,0,1,0,OK - matches store number,set
+1028,zClosed - Farragut TN (Turkey Creek),,1028,,0,0,0,0,OK - matches store number,blank
+1029,Huntsville AL (Whitesburg),,1029,Whitesburg,0,0,1,0,OK - matches store number,set
+1030,zClosed - Charlotte NC (Uptown),,1030,,0,0,0,0,OK - matches store number,blank
+1031,College Station TX,,1031,CSTATION,0,0,1,0,OK - matches store number,set
+1032,Memphis TN (Poplar),,1032,,0,0,1,0,OK - matches store number,blank
+1033,Waco TX,,1033,WACO,0,0,1,0,OK - matches store number,set
+1034,Franklin TN (Cool Springs),,1034,CSPRINGS,1,1,1,0,OK - matches store number,set
+1035,Monroe LA,,1035,MONROE,0,0,1,0,OK - matches store number,set
+1036,Gulfport MS,,1036,GPORT,0,0,1,0,OK - matches store number,set
+1037,Tallahassee FL,,1037,,1,1,1,0,OK - matches store number,blank
+1038,zClosed - Lawrenceville GA,,1038,,0,0,0,0,OK - matches store number,blank
+1039,Byram MS,,1039,BYRAM,0,0,1,0,OK - matches store number,set
+1040,Ridgeland MS (Township),,1040,Township,1,1,1,0,OK - matches store number,set
+1041,Starkville MS,,1041,,0,0,1,0,OK - matches store number,blank
+1042,Hot Springs AR,,1042,Hot Springs,0,0,1,0,OK - matches store number,set
+1043,Atlanta GA (Brookhaven),,1043,,0,0,1,0,OK - matches store number,blank
+1044,Vestavia Hills AL,,1044,,0,0,1,0,OK - matches store number,blank
+1045,zClosed - Winston Salem NC,,1045,,0,0,0,0,OK - matches store number,blank
+1046,Newnan GA,,1046,,0,0,1,0,OK - matches store number,blank
+1047,zClosed - Grand Rapids,,1047,,0,0,0,0,OK - matches store number,blank
+1048,Bossier City LA,,1048,,0,0,1,0,OK - matches store number,blank
+1049,zClosed - Nashville TN (Belle Meade),,1049,,0,0,0,0,OK - matches store number,blank
+1050,zClosed - Springfield MO (Battlefield),,1050,,0,0,0,0,OK - matches store number,blank
+1051,Jacksonville FL (The Avenues),,1051,Avenues,1,1,1,0,OK - matches store number,set
+1052,zClosed - North Little Rock AR,,1052,NLRock,0,0,0,0,OK - matches store number,set
+1053,Knoxville TN (Cedar Bluff),,1053,,0,0,1,0,OK - matches store number,blank
+1054,West Plano TX,,1054,,1,1,1,0,OK - matches store number,blank
+1055,zClosed - Rock Hill SC,,1055,,0,0,0,0,OK - matches store number,blank
+1056,Jacksonville FL (Parkway),,1056,Parkway,1,1,1,0,OK - matches store number,set
+1057,Nacogdoches TX,,1057,,1,1,1,0,OK - matches store number,blank
+1058,zClosed - Atlanta GA (Midtown),,1058,,0,0,0,0,OK - matches store number,blank
+1059,zClosed - Greensboro NC,,1059,GBORO,0,0,0,0,OK - matches store number,set
+1060,Vicksburg MS,,1060,,1,1,1,0,OK - matches store number,blank
+1061,Summerville SC,,1061,,1,1,1,0,OK - matches store number,blank
+1062,Montgomery AL,,1062,MONTG,0,0,1,0,OK - matches store number,set
+1063,Waugh Chapel MD,,1063,,0,0,1,0,OK - matches store number,blank
+1064,zClosed - Jonesboro AR (Hilltop),,1064,,0,0,0,0,OK - matches store number,blank
+1065,zClosed - Tallahassee FL (University),,1065,,0,0,0,0,OK - matches store number,blank
+1066,zClosed - Fayetteville NC,,1066,FayettevilleNC,0,0,0,0,OK - matches store number,set
+1067,zClosed - Southaven MS (Towne Center),,1067,,0,0,0,0,OK - matches store number,blank
+1068,Opelika AL,,1068,OPE,0,0,1,0,OK - matches store number,set
+1069,Little Rock AR (S. University),,1069,S. University,0,0,1,0,OK - matches store number,set
+1070,zClosed - Atlanta GA (Druid Hills),,1070,,0,0,0,0,OK - matches store number,blank
+1071,zClosed - Katy TX,,1071,,0,0,0,0,OK - matches store number,blank
+1072,Hoover AL,,1072,,0,0,1,0,OK - matches store number,blank
+1073,Fayetteville AR,,1073,,0,0,1,0,OK - matches store number,blank
+1075,Pensacola FL (Cordova Mall),,1075,,1,1,1,0,OK - matches store number,blank
+1076,West Monroe LA,,1076,West Monroe,0,0,1,0,OK - matches store number,set
+1077,zClosed - Birmingham AL (Inverness Corners),,1077,,0,0,0,0,OK - matches store number,blank
+1078,zClosed - Lexington KY (Richmond Road),,1078,,0,0,0,0,OK - matches store number,blank
+1079,Ruston LA,,1079,Ruston,0,0,1,0,OK - matches store number,set
+1080,zClosed - Pensacola FL (Downtown),,1080,Pensacola Dwntwn,0,0,0,0,OK - matches store number,set
+1081,zClosed - Brentwood TN,,1081,BRENTWOOD,0,0,0,0,OK - matches store number,set
+1082,zClosed - Lexington KY (Fayette Mall),,1082,,0,0,0,0,OK - matches store number,blank
+1083,zClosed - Nashville TN (West End),,1083,WESTEND,0,0,0,0,OK - matches store number,set
+1084,zClosed - Birmingham AL (St. Vincent),,1084,,0,0,0,0,OK - matches store number,blank
+1085,Houston TX (Bunker Hill),,1085,,0,0,1,0,OK - matches store number,blank
+1086,zClosed - Baton Rouge LA (Northgate),,1086,Northgate,0,0,0,0,OK - matches store number,set
+1087,Baton Rouge LA (Corporate),,1087,Corporate,1,1,1,0,OK - matches store number,set
+1088,Atlanta GA (Perimeter Mall),,1088,Perimeter Mall,0,0,1,0,OK - matches store number,set
+1089,zClosed - Auburn AL,,1089,,0,0,0,0,OK - matches store number,blank
+1090,Kennesaw GA,,1090,,0,0,1,0,OK - matches store number,blank
+1091,zClosed - Houston TX (Eldridge),,1091,,0,0,0,0,OK - matches store number,blank
+1092,zClosed - San Marcos TX,,1092,,0,0,0,0,OK - matches store number,blank
+1094,Norcross GA (Peachtree Corners),,1094,Norcross,0,0,1,0,OK - matches store number,set
+1095,Lafayette LA,,1095,Lafayette,0,0,0,0,OK - matches store number,set
+1096,Little Rock AR (Pleasant Ridge),,1096,Pleasant Ridge,0,0,0,0,OK - matches store number,set
+1097,Spanish Fort AL,,1097,,0,0,1,0,OK - matches store number,blank
+1098,zClosed - Columbia SC,,1098,Columbia,0,0,0,0,OK - matches store number,set
+1099,Mobile AL (McGowin Park),,1099,McGowin,1,1,1,0,OK - matches store number,set
+1100,zClosed - New Braunfels TX,,1100,New Braunfels,0,0,0,0,OK - matches store number,set
+1102,zClosed - Clearwater FL,,1102,,0,0,0,0,OK - matches store number,blank
+1103,zClosed - Bradenton FL (University Pk),,1103,,0,0,0,0,OK - matches store number,blank
+1104,Mobile AL (Westgate Pavilion),,1104,Westgate,1,1,1,0,OK - matches store number,set
+1106,zClosed - Germantown TN,,1106,,0,0,0,0,OK - matches store number,blank
+1107,zClosed - Cary NC,,1107,Cary,0,0,0,0,OK - matches store number,set
+1109,zClosed - Jacksonville FL (San Jose),,1109,San Jose,0,0,0,0,OK - matches store number,set
+1110,zClosed - Pensacola FL (Pensacola University),,1110,,0,0,0,0,OK - matches store number,blank
+1113,zClosed - Jacksonville FL (St. Johns Town Center),,1113,St John,0,0,0,0,OK - matches store number,set
+1116,zClosed - Irving TX (Cypress Waters),,1116,,0,0,0,0,OK - matches store number,blank
+1117,zClosed - Lake Charles LA,,1117,,0,0,0,0,OK - matches store number,blank
+1118,Murfreesboro TN (Northgate),,1118,MNORTH,1,1,1,0,OK - matches store number,set
+1119,Lufkin TX,,1119,,1,1,1,0,OK - matches store number,blank
+1120,Rogers AR (Pinnacle),,1120,,0,0,1,0,OK - matches store number,blank
+1121,zClosed - Orlando FL (Alafaya),,1121,Alafaya,0,0,0,0,OK - matches store number,set
+1123,zClosed - Palm Beach FL (Gardens Legacy),,1123,,0,0,0,0,OK - matches store number,blank
+1124,zClosed - Springfield MO (Campbell),,1124,,0,0,0,0,OK - matches store number,blank
+1127,Jonesboro AR (East Highland),,1127,,0,0,1,0,OK - matches store number,blank
+1129,Canton GA (Canton Cumming Hwy),,1129,,0,0,1,0,OK - matches store number,blank
+1130,Jacksonville FL (Butler Point),,1130,Butler Point,1,1,1,0,OK - matches store number,set
+1131,Dothan AL,,1131,,0,0,1,0,OK - matches store number,blank
+1133,Lone Tree CO (Lincoln Commons),,1133,,0,0,1,0,OK - matches store number,blank
+1134,Meridian MS,,1134,,0,0,1,0,OK - matches store number,blank
+1135,zClosed - Memphis TN (South Highland),,1135,,0,0,0,0,OK - matches store number,blank
+1139,Smyrna GA,,1139,,0,0,1,0,OK - matches store number,blank
+1142,zClosed - Hattiesburg MS (Hattiesburg II),,1142,,0,0,0,0,OK - matches store number,blank
+1143,zClosed - Austin TX (Austin Congress Ave),,1143,Congress,0,0,0,0,OK - matches store number,set
+1144,Gainesville FL (Butler North),,1144,Gainesville,0,0,0,0,OK - matches store number,set
+1146,zClosed - Sugarland TX (Town Center Blvd),,1146,,0,0,0,0,OK - matches store number,blank
+1147,Tucker GA (Northlake Pkwy),,1147,,0,0,1,0,OK - matches store number,blank
+1148,Frisco TX (Near Hall Office Park and Frisco Star),,1148,,0,0,1,0,OK - matches store number,blank
+1150,zClosed - Greenwood IN (Greenwood N Emerson),,1150,,0,0,0,0,OK - matches store number,blank
+1152,zClosed - Arvada CO (Arvada Marketplace),,0,,0,0,0,0,PLACEHOLDER - ADPBatchID is 0,blank
+1154,Albany GA (Westover Blvd),,1154,,0,0,1,0,OK - matches store number,blank
+1155,zClosed - Naples FL (Hollywood Blvd),,1155,1155,0,0,0,0,OK - matches store number,set
+1157,Columbus GA (Whittlesey Blvd),,0,,0,0,1,0,PLACEHOLDER - ADPBatchID is 0,blank
+1160,zClosed - Madison MS,,0,,0,0,0,0,PLACEHOLDER - ADPBatchID is 0,blank
+1161,zClosed - Annapolis MD (Town Centre Blvd),,1161,,0,0,0,0,OK - matches store number,blank
+1162,zClosed - Atlanta GA (Howell Mill Rd),,1162,,0,0,0,0,OK - matches store number,blank
+1163,zClosed - Indianapolis IN (N Meridian St),,1163,,0,0,0,0,OK - matches store number,blank
+1165,zClosed - Fort Worth TX (Presidio Town Crossing),,1165,,0,0,0,0,OK - matches store number,blank
+1166,Fort Worth TX (Champions Center),,1166,,0,0,1,0,OK - matches store number,blank
+1168,zClosed - Siloam Springs AR,,0,,0,0,0,0,PLACEHOLDER - ADPBatchID is 0,blank
+1169,zClosed - Kennesaw GA (Chastain Rd),,1169,,0,0,0,0,OK - matches store number,blank
+1170,zClosed - Sterling VA (Harry Byrd Hwy),Harry Byrd Hwy,1170,,0,0,0,0,OK - matches store number,blank
+1172,Peachtree City GA (The Overlook),,1172,,0,0,1,0,OK - matches store number,blank
+1173,zClosed - Greenville NC (La Promenade I),,0,,0,0,0,0,PLACEHOLDER - ADPBatchID is 0,blank
+1174,zClosed - Buford GA,,1174,,0,0,0,0,OK - matches store number,blank
+1175,Conway AR (Lewis Crossing),,1175,,0,0,1,0,OK - matches store number,blank
+1176,Chattanooga TN,,1176,,1,1,1,0,OK - matches store number,blank
+1178,Tahlequah OK,,1178,,0,0,1,0,OK - matches store number,blank
+1179,Texarkana TX (S Cowhorn Creek),,1179,,0,0,1,0,OK - matches store number,blank
+1180,San Angelo TX,,1180,,0,0,1,0,OK - matches store number,blank
+1182,Athens GA (Epps Bridge Pkwy),,1182,,0,0,1,0,OK - matches store number,blank
+1183,Cullman AL,,1183,NEW01,0,0,1,0,OK - matches store number,set
+1184,Benton AR,,1184,,0,0,1,0,OK - matches store number,blank
+1187,Athens GA (Baxter Street),,0,,0,0,1,0,PLACEHOLDER - ADPBatchID is 0,blank
+1188,Lubbock TX (Broadway),,0,,0,0,1,0,PLACEHOLDER - ADPBatchID is 0,blank
+1189,Fort Smith AR,,0,,0,0,1,0,PLACEHOLDER - ADPBatchID is 0,blank
+1190,Fort Collins CO,,1190,,0,0,1,0,OK - matches store number,blank
+1191,Bentonville AR,,0,,0,0,0,0,PLACEHOLDER - ADPBatchID is 0,blank
+1194,Magee MS,,1194,,0,0,1,0,OK - matches store number,blank
+1195,Mandeville LA,,0,,0,0,1,0,PLACEHOLDER - ADPBatchID is 0,blank
+1196,Statesboro GA,,0,,0,0,1,0,PLACEHOLDER - ADPBatchID is 0,blank
+1197,Pascagoula MS,,1197,Pascagoula,1,1,1,0,OK - matches store number,set
+5002,Rockwall TX (Virtual Kitchen),,5002,Rockwall,0,0,1,0,OK - matches store number,set
+9999,Online Gift Cards,,9999,,0,0,0,0,OK - matches store number,blank

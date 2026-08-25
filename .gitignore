@@ -1,0 +1,11 @@
+# --- Customer PII: raw Ovation guest survey export (names, phones, emails) ---
+ovation_sample/
+
+# --- Contains a live SFTP password (Fresh Concepts) ---
+list_freshconcepts.ps1
+
+# --- Local tooling / OS cruft ---
+.claude/settings.local.json
+__MACOSX/
+.DS_Store
+Thumbs.db

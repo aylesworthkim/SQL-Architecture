@@ -1,0 +1,65 @@
+ReportPath,Variant,ToRecipients,CC,Status,Notes
+/Sales and KPIs/Daily Sales Flash Report,Franchise (grp 8),salesteam; fbcs; accounting; pdc; marketing; leadership; development,itdepartment,LIVE,
+/Sales and KPIs/Daily Sales Flash Report,All Open Stores (grp 192),accounting; leadership; salesteam; pdc; marketing; companygms; fbcs; development,,LIVE,
+/Sales and KPIs/Daily Sales Flash Report,Enhanced - All Open (grp 192),itdepartment; fpaci; development,,LIVE,
+/Sales and KPIs/Daily Sales Flash Report,Corporate (grp 79),marketing; companygms; fbcs; accounting; companyrestaurants; leadership; salesteam; development,,LIVE,
+/Sales and KPIs/Sales per Labor Hour,Franchise (grp 8),fbcs,itdepartment,LIVE,two identical Franchise copies exist
+/Sales and KPIs/Sales per Labor Hour,Company (grp 222),c.newcomb; fpaci; companygms; fbcs; mhayward,itdepartment,LIVE,
+/Accounting/Royalty Report,ALL Stores (grp 4),tbell; tking; bthrasher,itdepartment,LIVE,
+/Accounting/Royalty Report,Franchisees only (grp 82),tbell; tking; bthrasher,itdepartment,LIVE,
+/Monkey Media/Monkey Orders Due For Today - Summary by Store,Franchise (grp 8),salesteam; companygms; fbcs,,LIVE,
+/Monkey Media/Monkey Orders Due For Today - Summary by Store,Corporate (grp 79),salesteam; companygms; fbcs,,LIVE,
+/Catering Sales and Menu/Monkey - Refunds by User,Corporate (grp 79),accounting; salesteam,itdepartment,LIVE,
+/Catering Sales and Menu/Period Catering by Week,,salesteam,,LIVE,
+/Sales and KPIs/Net Sales Average by Hour by Weekday,Corporate (grp 79),companyrestaurants,,LIVE,
+/Sales and KPIs/Weekly Sales Report - WPY Comparative,Support Center Only (grp 4),leadership; tking; accounting; marketing; development,,LIVE,
+/Sales and KPIs/Weekly Sales Report - WPY Comparative,All Open Restaurants (grp 192),leadership; tking; companygms; fbcs; pdc; accounting; development; csreports,itdepartment,LIVE,
+/Sales and KPIs/Weekly Sales Leaders Alert,Monday,leadership; tking; companygms; fbcs; accounting; marketing; salesteam; development,,LIVE,
+/Sales and KPIs/Weekly Sales Leaders Alert,Tuesday backup copy,tking; bthrasher,,LIVE,reruns in case Monday polling was incomplete
+/Sales and KPIs/Record Sales Alert,Monday,tking; leadership; companygms; fbcs; accounting; salesteam; development,,LIVE,
+/Sales and KPIs/Record Sales Alert,Tuesday backup copy,tking; bthrasher,,LIVE,
+/Sales and KPIs/Sales Tracking History,,accounting; leadership; companygms; fbcs,,LIVE,
+/Reports for Review and Naming/Reviewed and deployed/Company Store Payroll Export - Toast,Per-store (grp 244),payroll,,LIVE,data-driven; one CSV per open store (~28)
+/HR/Company Store Payroll Export,Per-store (grp 1095),payroll,,STALLED,older duplicate of the Toast payroll export
+/Reports for Review and Naming/Reviewed and deployed/Toast Non Cash Tip Totals by Store,,payroll,itdepartment,LIVE,
+/TechSupport/Restaurant Phone list by State,,supportcenter,itdepartment,LIVE,
+/TechSupport/ARCHIVED RDL/Catering Sales Report,Corporate (grp 79),salesteam,,LIVE,lives under ARCHIVED RDL folder but still sending
+/! Frequently Used and Popular Reports/Store Information,,tcroxton,,STALLED,monthly; last fired 2026-04-01
+/Accounting/Intacct Files/Intacct format - Ad Fund Fees,Corporate (grp 79),tbell; tking; bthrasher,itdepartment,STALLED,last fired 2026-04-28
+/HR/Monthly MealCard Adjustments for Payroll,,payroll; hrdept; tbell,,STALLED,last fired 2026-04-05
+/Marketing/Marketing and Donation (Comps and Discounts),,companygms; fbcs; tbell,,STALLED,last fired 2026-04-27
+/Marketing/Store Closures,,accounting; fieldmarketing,itdepartment,STALLED,last fired 2026-04-27
+/Reports for Review and Naming/For RAD - Newks Daily Sales,,data@thisisrad.io,itdepartment,STALLED,EXTERNAL agency recipient; last fired 2026-04-29
+/Reports for Review and Naming/Reviewed and deployed/Calculated Cash vs Declared Deposit,Corporate (grp 79),tbell,itdepartment,STALLED,last fired 2026-04-29
+/Reports for Review and Naming/Reviewed and deployed/Cashier vs Kiosk Counts and Dollars,Bite (grp 232),mwilson; fbcs,itdepartment,STALLED,last fired 2026-04-27
+/Reports for Review and Naming/Reviewed and deployed/Cashier vs Kiosk Counts and Dollars,Grubbrr (grp 238),ipetrover@grubbrr.com,itdepartment,STALLED,EXTERNAL vendor recipient (Grubbrr)
+/Reports for Review and Naming/Reviewed and deployed/COGS by Ingredient,,accounting; operations,itdepartment,STALLED,last fired 2026-04-28
+/Reports for Review and Naming/Reviewed and deployed/Daily Sales by Sales Type,All Open (grp 192),itdepartment; companygms; fbcs; accounting; fpaci; salesteam,,STALLED,last fired 2026-04-29
+/Reports for Review and Naming/Reviewed and deployed/Employees and Rates,,hrdept,,STALLED,last fired 2026-04-20
+/Reports for Review and Naming/Reviewed and deployed/TenderNR,Corporate (grp 79),bthrasher; tking,itdepartment,STALLED,last fired 2026-04-27
+/Reports for Review and Naming/Reviewed and deployed/Toast Net Sales Validation,All Reportable (grp 243),itdepartment,alerts,STALLED,last fired 2026-04-27
+/Sales and KPIs/Company Restaurant Manager Shift Punches,,hrdept; mwilson,itdepartment,STALLED,last fired 2026-04-27
+/Sales and KPIs/FOH Refunds Report,Corporate (grp 79),companygms; fbcs,,STALLED,last fired 2026-04-27
+/Sales and KPIs/FOH Refunds Report,Franchise (grp 8),companygms; fbcs,,STALLED,
+/Sales and KPIs/Take Out Sales by Order Mode,Company (grp 79),companygms; fbcs,,STALLED,last fired 2026-04-29
+/Sales and KPIs/Third Party Delivery Sales Summary - By Partner,All Reportable (grp 4),companygms; fbcs; marketing,,STALLED,last fired 2026-04-27
+/Sales and KPIs/Sales Channel Average Comparison vs PY - by Hour by Weekday - PTD,Corporate (grp 79),companygms; fbcs,,STALLED,last fired 2026-04-27
+/Sales and KPIs/Digital Orders by Platform,,(none - template),itdepartment,STALLED,empty To; template only
+/Sales and KPIs/Order Mode Metrics by Hour,,(none - template),itdepartment,STALLED,empty To; template only
+/TechSupport/Database file sizes,,dwilson,,LIVE,monitoring - retire with SQL-PROD; goes to inactive dwilson acct
+/TechSupport/SQL-PROD - Drivespace Alert,,dwilson,,LIVE,monitoring - retire; goes to inactive dwilson acct
+/TechSupport/Report Run Status,,dwilson; akarveller,,LIVE,monitoring - retire
+/TechSupport/Missing Config Data,,itdepartment,,LIVE,monitoring - retire
+/TechSupport/Missing EOD Markers,,itdepartment,,LIVE,monitoring - retire
+/TechSupport/Over Night Stored Proc Failures,,itdepartment,,LIVE,monitoring - retire
+/TechSupport/ALERT - Tender NonRedeemed,,itdepartment,,STALLED,last fired 2026-04-29
+/TechSupport/Generic Rails tranactions,,bthrasher,itdepartment,STALLED,last fired 2026-04-27
+/TechSupport/New and Updated FZ Contacts,,support@newksit.freshdesk.com,,STALLED,EXTERNAL (Freshdesk); last fired 2026-04-28
+/TechSupport/New stores opening within 14 days,,itdepartment,,STALLED,last fired 2026-04-27
+/TechSupport/New stores opening within 3 days,,itdepartment,,STALLED,last fired 2026-04-29
+/Reports for Review and Naming/Tables Missing Replicated Data,,itdepartment,,STALLED,last fired 2026-04-29
+/TechSupport/Vendor Exports/eSite export - Customers,File share (not email),(file share \\sql-prod\d$\sql_output\eSite),,LIVE,SECURITY: hardcoded dwilson password in definition - delete + rotate
+/TechSupport/Vendor Exports/eSite export - OSAT,File share (not email),(file share \\sql-prod\d$\sql_output\eSite),,LIVE,SECURITY: hardcoded dwilson password - delete + rotate
+/TechSupport/Vendor Exports/eSite export - Sales,File share (not email),(file share \\sql-prod\d$\sql_output\eSite),,LIVE,SECURITY: hardcoded dwilson password - delete + rotate
+/TechSupport/Vendor Exports/eSite export - Stores,File share (not email),(file share \\sql-prod\d$\sql_output\eSite),,LIVE,SECURITY: hardcoded dwilson password - delete + rotate
+/TechSupport/Vendor Exports/eSite export - Transactions,File share (not email),(file share \\sql-prod\d$\sql_output\eSite),,LIVE,SECURITY: hardcoded dwilson password - delete + rotate

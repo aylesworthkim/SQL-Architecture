@@ -1,0 +1,2 @@
+﻿CompanyName,CoCode,ADPTippedEarningsCode,ADPRegHoursEarningCode,ADPOTHoursEarningCode,ADPCreditCardTipCode,ADPIncludeCreditCardTipsInExport,ADPIncludeTempDepartmentInExport,ADPIncludePayRateInExport,PayPeriod,PayrollStartDate
+Newks,new01,tip01,REG,OT,tipCC,True,True,True,1,2025-02-23 00:00:00
